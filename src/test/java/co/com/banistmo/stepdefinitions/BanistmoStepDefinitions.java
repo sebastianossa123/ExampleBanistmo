@@ -26,7 +26,7 @@ public class BanistmoStepDefinitions {
 
     @When("^the user search the infomation travel$")
     public void the_user_search_the_infomation_travel() throws Throwable {
-
+ 
     }
 
     @Then("^the user should see the file pdf correctly$")
